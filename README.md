@@ -1,2 +1,3 @@
-# cs320_lab2
-Group 25
+# Group 25 - The Best Group
+
+We are all graduate students and young professionals!
